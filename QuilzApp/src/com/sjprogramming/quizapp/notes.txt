@@ -1,0 +1,16 @@
+Which statement is true about Java?
+
+a)Java is a sequence-dependent programming language,b)Java is a code dependent programming language,c)Java is a platform-dependent programming language,d)Java is a plateform independent programming language
+
+What is the extentision of Java code files/
+
+a).js,b).txt,c).class,d).java
+
+Which of the following is a marker interface in Java?
+a) Serializable,b) Cloneable,c) Remote,d) All of the above
+
+What is the default value of an instance variable of type int in Java?
+a) 0,b) null,c) 1,d) -1
+
+Which of the following is not a feature of Java?
+a) Platform Independent,b) Object-Oriented,c) Compiler-based,d) Procedural Programming
